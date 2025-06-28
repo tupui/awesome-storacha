@@ -37,6 +37,7 @@ This list showcases the best community-driven projects, libraries, tutorials, an
 - [ChatCha](https://github.com/AkashMundari/ChatCha) - Decentralized AI agent platform with data storage and verifiability using Filecoin/IPFS.
 - [DappaDiary](https://github.com/DappaDanDev/dappaDiary) - Onchain Notebook LM for decentralized note-taking.
 - [TripMate](https://github.com/Dhruv-Varshney-developer/Tripmate-Planner) - AI-powered travel assistant with decentralized storage capabilities.
+- [Tansu](https://github.com/tupui/soroban-versioning) - A governance and versioning layer for open source projects.
 
 ## Libraries & SDKs
 
